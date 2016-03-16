@@ -1,0 +1,24 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "A simple pong game in ES6 / WebGL",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrVil/web-pong.git"
+  },
+  "keywords": [
+    "pong",
+    "html5",
+    "webgl"
+  ],
+  "author": "MrVil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrVil/web-pong/issues"
+  },
+  "homepage": "https://github.com/MrVil/web-pong#readme"
+}
